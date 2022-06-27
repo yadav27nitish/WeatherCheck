@@ -254,7 +254,8 @@ footer .text-center{
   visibility: hidden;
   transition: all 0.3s linear;
 } */
-/*error Page*/
+
+/*error Page css*/
 .error_img{
     width:60rem;
     height:30rem;
