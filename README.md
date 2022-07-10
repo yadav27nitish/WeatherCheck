@@ -12,4 +12,4 @@ After completing the project, you will:
   * we will familiar with real API and how its work.
   * How to featch the data from real Running API.
   * How to render our website on the server(heroku).
-  *
+  
